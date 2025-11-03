@@ -1,0 +1,13 @@
+{
+  "name": "quicksort-copilot",
+  "version": "1.0.0",
+  "main": "task.js",
+  "scripts": {
+    "test": "jest"
+   
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "nodemon": "^3.1.10"
+  }
+}
