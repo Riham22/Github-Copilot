@@ -4,10 +4,11 @@
   "main": "task.js",
   "scripts": {
     "test": "jest"
-   
   },
   "devDependencies": {
-    "jest": "^29.0.0",
-    "nodemon": "^3.1.10"
+    "jest": "^29.0.0"
+  },
+  "dependencies": {
+    "source-map": "^0.7.6"
   }
 }
